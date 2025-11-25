@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ SAINI DRM Bot ✨
+  ✨ obito DRM Bot ✨
 </h1>
 
 <p align="center">
@@ -58,4 +58,4 @@
 
 ---
 
-> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
+> 👨‍💻 Created with ❤️ by [@obito.saini.khe](https://instagram.com/nikhil.saini.khe)
